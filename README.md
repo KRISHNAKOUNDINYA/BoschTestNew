@@ -1,2 +1,2 @@
 # BoschTestNew
-please go thrugh the master branch
+please go through the master branch for the assessment 
